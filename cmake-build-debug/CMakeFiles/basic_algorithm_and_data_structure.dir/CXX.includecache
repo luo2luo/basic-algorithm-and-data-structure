@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luojiayan/Desktop/GitHub 2/basic-algorithm-and-data-structure/DataStructure/List.cpp
+List.h
+/Users/luojiayan/Desktop/GitHub 2/basic-algorithm-and-data-structure/DataStructure/List.h
+
+/Users/luojiayan/Desktop/GitHub 2/basic-algorithm-and-data-structure/DataStructure/List.h
+iostream
+-
+
+/Users/luojiayan/Desktop/GitHub 2/basic-algorithm-and-data-structure/main.cpp
+iostream
+-
+DataStructure/List.h
+/Users/luojiayan/Desktop/GitHub 2/basic-algorithm-and-data-structure/DataStructure/List.h
+
